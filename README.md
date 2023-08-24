@@ -1,5 +1,5 @@
 Calculator Project
-
+Click Here to open -->> https://sdhage1502.github.io/calculator/
 This is a stylish calculator project implemented using HTML5, CSS, and JavaScript. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 Usage
